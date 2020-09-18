@@ -4,14 +4,11 @@
   "license_url": "https://github.com/pacharanero/discourse-topic-width-desktop",
   "about_url": "https://github.com/pacharanero/discourse-topic-width-desktop",
   "authors": "pacharanero/Marcus Baw",
-  "theme_version": 1.0.0,
+  "theme_version": "1.0.0",
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
-  "assets": {
-  },
-  "color_schemes": {
-  },
-  "modifiers": {
-  },
+  "assets": {},
+  "color_schemes": {},
+  "modifiers": {},
   "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
